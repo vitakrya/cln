@@ -3,3 +3,4 @@
 [3](https://angular.io/docs/ts/latest/tutorial/toh-pt2.html)
 [4](https://angular.io/docs/ts/latest/tutorial/toh-pt3.html)
 [5](https://angular.io/docs/ts/latest/tutorial/toh-pt4.html)
+[6](https://angular.io/docs/ts/latest/tutorial/toh-pt5.html)
